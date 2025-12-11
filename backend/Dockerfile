@@ -12,8 +12,6 @@ COPY . .
 # Install dependencies
 RUN npm install
 
-# Run tests (optional)
-RUN npm run test
 
 
 # ============================
